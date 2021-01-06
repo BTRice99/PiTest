@@ -449,7 +449,7 @@ TotalDamage = 0
 TotalDamageTaken = 0
 
 
-Contestant = input("What is your name? \n:")
+Contestant = input("What is your god-given name? \n:")
 
 while True:
     if Contestant != "":
